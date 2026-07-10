@@ -38,7 +38,7 @@
 # Engenharia de Prompts
 
 # Buscando testar a capacidade técnica, analítica e de governança do prompt criado dentro do NotebookLM, foram criados blocos de perguntas de alta complexidade, desenhadas específicamente para forçar a IA a aplicar a dupla estrutura (Executiva/Técnica), utilizar frameworks exigidos, acionar a matriz STRIDE e demonstrar o pensamento de Zero Trust e Resiliência.
-# As respostas obtidas seguiram o que foi proposto ao NotebookLM baseado nas fontes fornecidas, mas para uma quem já trabalha na área e tem visão mais técnica segue abaixo os blocos de perguntas utilizados para sua própria verificação e análise:
+# As respostas obtidas seguiram o que foi proposto ao NotebookLM baseado nas fontes fornecidas, mas para quem já trabalha na área e tem uma visão mais técnica segue abaixo os blocos de perguntas utilizados para sua própria verificação e análise:
 
 # Bloco 1: Arquitetura Zero Trust e Engenharia Social (Mitnick / Gilman & Barth)
 
